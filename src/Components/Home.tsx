@@ -70,7 +70,7 @@ function Home() {
           <p className="text-[14px] mt-3 text-slate-400">
             Hi, I'm Navyasri Maskani. A passionate{" "}
             <span className="whitespace-nowrap">Web Developer</span>
-            <br /> based in Chicago, USA📍
+            {/* <br /> based in Chicago, USA📍 */}
           </p>
           <div className="flex items-center justify-center md:justify-normal gap-2">
             {profiles.map((profile) => (
