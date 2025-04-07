@@ -55,25 +55,22 @@ function About() {
         </div>
         <div className="mb-2 w-[100%] md:w-[70%]">
           <p className="text-[#1ED760] font-semibold uppercase">About Me 🧑‍🎓</p>
-          <p className="md:whitespace-nowrap font-bold">
+          {/* <p className="md:whitespace-nowrap font-bold">
             A Web Developer based in Chicago, USA📍
-          </p>
+          </p> */}
           <p className="text-slate-400">
-            Detail-oriented Application Development Associate with over 2 years
-            of professional experience at Accenture, contributing to software
-            support, production issue resolution, and system enhancements in
-            enterprise environments. Proficient in SQL, JIRA, and cloud tools
-            like AWS, with a strong foundation in debugging and optimizing
-            data-driven applications.
+             Computer Science graduate student at Northeastern Illinois University 
+             with a passion for developing innovative software solutions. 
+             My academic foundation in Data Mining, AI, and Database Systems complements 
+             my hands-on experience building web applications. Currently focusing on 
+             deepening my technical knowledge across cryptography, AI, and advanced software design 
+             while pursuing opportunities to apply these skills in professional environments.
             <br />
-            <br /> To deepen expertise in modern web development, independently
-            built and deployed several personal projects using React.js,
-            JavaScript, and related front-end technologies. Projects such as
-            Wordle Master, Infi Scroll, and Quiz Craft demonstrate a hands-on
-            commitment to learning and applying web development skills beyond
-            the workplace. Currently pursuing a Master’s in Computer Science,
-            with a focus on deepening technical knowledge across cryptography,
-            AI, and software design.
+            <br /> I've independently developed and deployed several personal projects using
+             React.js, JavaScript, and modern front-end technologies. Projects such as Wordle Master, 
+             Infi Scroll, and Quiz Craft showcase my ability to create intuitive, responsive user interfaces 
+             while applying sound software development principles. Recently recognized at NEIU Eagle HackFest 2025 
+             for developing an innovative software solution addressing real-world challenges.
           </p>
         </div>
       </div>
