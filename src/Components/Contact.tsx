@@ -29,7 +29,7 @@ function Contact() {
           />
           <div>
             <p className="font-semibold">Email</p>
-            <p className="text-slate-400">nmaskani@neiu.edu</p>
+            <p className="text-slate-400">mnavyasri0303@gmail.com</p>
           </div>
         </div>
       </div>
